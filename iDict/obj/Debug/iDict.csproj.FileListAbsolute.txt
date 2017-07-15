@@ -1,0 +1,117 @@
+H:\KY 6\C#\Training\SPDict\SPDict\obj\Debug\ResolveAssemblyReference.cache
+H:\KY 6\C#\Training\SPDict\SPDict\obj\Debug\iDict.ConvertToPlainText.resources
+H:\KY 6\C#\Training\SPDict\SPDict\obj\Debug\SPDict.Properties.Resources.resources
+H:\KY 6\C#\Training\SPDict\SPDict\obj\Debug\iDict.csproj.GenerateResource.Cache
+H:\KY 6\C#\Training\SPDict\SPDict\obj\Debug\SPDict.exe
+H:\KY 6\C#\Training\SPDict\SPDict\obj\Debug\iDict.Main.resources
+H:\KY 6\C#\Training\SPDict\SPDict\obj\Debug\iDict.MiniDict.resources
+H:\KY 6\C#\Training\SPDict\SPDict\obj\Debug\iDict.About.resources
+H:\KY 6\C#\Training\SPDict\SPDict\obj\Debug\iDict.DoiTen.resources
+H:\KY 6\C#\Training\SPDict\SPDict\obj\Debug\iDict.QuanLyTuDien.resources
+H:\KY 6\C#\Training\SPDict\SPDict\obj\Debug\iDict.SuaTu.resources
+H:\KY 6\C#\Training\SPDict\SPDict\obj\Debug\iDict.ThemTu.resources
+H:\KY 6\C#\Training\SPDict\SPDict\obj\Debug\iDict.ConvertToidt.resources
+H:\KY 6\C#\Training\SPDict\SPDict\obj\Debug\iDict.TuDienOnline.resources
+H:\KY 6\C#\Training\SPDict\SPDict\obj\Debug\iDict.BaBylon.resources
+H:\KY 6\C#\Training\SPDict\SPDict\obj\Debug\iDict.KiemTraTuTrungLap.resources
+H:\KY 6\C#\Training\SPDict\SPDict\obj\Debug\iDict.Table.resources
+H:\KY 6\C#\Training\SPDict\SPDict\obj\Debug\iDict.ThongTinTuDien.resources
+H:\KY 6\C#\Training\SPDict\SPDict\obj\Debug\iDict.TimKiemNangCao.resources
+H:\KY 6\C#\Training\SPDict\SPDict\obj\Debug\iDict.TraCuuMotDoanVan.resources
+H:\KY 6\C#\Training\SPDict\SPDict\obj\Debug\iDict.Loi.resources
+H:\KY 6\C#\Training\SPDict\SPDict\bin\Debug\SPDict.exe
+H:\KY 6\C#\Training\SPDict\SPDict\obj\Debug\SPDict.pdb
+H:\KY 6\C#\Training\SPDict\SPDict\bin\Debug\SPDict.pdb
+H:\KY 6\C#\Training\iDict\iDict\obj\Debug\ResolveAssemblyReference.cache
+H:\KY 6\C#\Training\iDict\iDict\obj\Debug\iDict.About.resources
+H:\KY 6\C#\Training\iDict\iDict\obj\Debug\iDict.ConvertToidt.resources
+H:\KY 6\C#\Training\iDict\iDict\obj\Debug\iDict.ConvertToPlainText.resources
+H:\KY 6\C#\Training\iDict\iDict\obj\Debug\iDict.MiniDict.resources
+H:\KY 6\C#\Training\iDict\iDict\obj\Debug\iDict.csproj.GenerateResource.Cache
+H:\KY 6\C#\Training\iDict\iDict\bin\Debug\iDict.exe
+H:\KY 6\C#\Training\iDict\iDict\bin\Debug\iDict.pdb
+H:\KY 6\C#\Training\iDict\iDict\obj\Debug\iDict.Properties.Resources.resources
+H:\KY 6\C#\Training\iDict\iDict\obj\Debug\iDict.exe
+H:\KY 6\C#\Training\iDict\iDict\obj\Debug\iDict.pdb
+H:\KY 6\C#\Training\iDict\iDict\obj\Debug\iDict.ConvertToBaBylon.resources
+H:\KY 6\C#\Training\iDict\iDict\obj\Debug\iDict.Rename.resources
+H:\KY 6\C#\Training\iDict\iDict\obj\Debug\iDict.CheckWord.resources
+H:\KY 6\C#\Training\iDict\iDict\obj\Debug\iDict.Error.resources
+H:\KY 6\C#\Training\iDict\iDict\obj\Debug\iDict.MainDict.resources
+H:\KY 6\C#\Training\iDict\iDict\obj\Debug\iDict.ManageDict.resources
+H:\KY 6\C#\Training\iDict\iDict\obj\Debug\iDict.EditWord.resources
+H:\KY 6\C#\Training\iDict\iDict\obj\Debug\iDict.AddWord.resources
+H:\KY 6\C#\Training\iDict\iDict\obj\Debug\iDict.InfoDict.resources
+H:\KY 6\C#\Training\iDict\iDict\obj\Debug\iDict.AdvancedSearch.resources
+H:\KY 6\C#\Training\iDict\iDict\obj\Debug\iDict.Translation.resources
+H:\KY 6\C#\Training\iDict\iDict\obj\Debug\Interop.AgentObjects.dll
+H:\KY 6\C#\Training\iDict\iDict\obj\Debug\Interop.AgentServerObjects.dll
+H:\KY 6\C#\Training\iDict\iDict\obj\Debug\Interop.SAPIEngineLib.dll
+H:\KY 6\C#\Training\iDict\iDict\obj\Debug\iDict.csproj.ResolveComReference.cache
+H:\KY 6\C#\Training\iDict\iDict\bin\Debug\Interop.AgentObjects.dll
+H:\KY 6\C#\Training\iDict\iDict\bin\Debug\Interop.AgentServerObjects.dll
+H:\KY 6\C#\Training\iDict\iDict\bin\Debug\Interop.SAPIEngineLib.dll
+H:\KY 6\C#\Training\iDict\iDict\obj\Debug\Interop.SpeechLib.dll
+H:\KY 6\C#\Training\iDict\iDict\bin\Debug\Interop.SpeechLib.dll
+H:\KY 6\C#\Training\iDict\iDict\bin\Debug\iDict.exe.config
+H:\KY 6\C#\Training\iDict\iDict\bin\Debug\iDict.exe.manifest
+H:\KY 6\C#\Training\iDict\iDict\bin\Debug\iDict.application
+H:\KY 6\C#\Training\iDict\iDict\obj\Debug\iDict.exe.manifest
+H:\KY 6\C#\Training\iDict\iDict\obj\Debug\iDict.application
+H:\KY 6\C#\Training\iDict\iDict\obj\Debug\iDict.Confirm.resources
+H:\KY 6\C#\Training\iDict\iDict\obj\Debug\iDict.Properties.Resources.vi.resources
+H:\KY 6\C#\Training\iDict\iDict\bin\Debug\vi\iDict.resources.dll
+H:\KY 6\C#\Training\iDict\iDict\obj\Debug\vi\iDict.resources.dll
+H:\KY 6\C#\Training\iDict\iDict\bin\Debug\vi-VN\iDict.resources.dll
+H:\KY 6\C#\Training\iDict\iDict\obj\Debug\iDict.MainDict.vi-VN.resources
+H:\KY 6\C#\Training\iDict\iDict\obj\Debug\iDict.MainDict.vi.resources
+H:\KY 6\C#\Training\iDict\iDict\obj\Debug\vi-VN\iDict.resources.dll
+H:\KY 6\C#\Training\iDict\iDict\obj\Debug\iDict.Configuration.resources
+H:\KY 6\C#\Training\iDict\iDict\obj\Debug\iDict.EditWord.vi-VN.resources
+H:\KY 6\C#\Training\iDict\iDict\obj\Debug\iDict.InfoDict.vi-VN.resources
+H:\KY 6\C#\Training\iDict\iDict\obj\Debug\iDict.ManageDict.vi-VN.resources
+H:\KY 6\C#\Training\iDict\iDict\obj\Debug\iDict.MiniDict.vi-VN.resources
+H:\KY 6\C#\Training\iDict\iDict\obj\Debug\iDict.Configuration.vi-VN.resources
+H:\KY 6\C#\Training\iDict\iDict\obj\Debug\iDict.AdvancedSearch.vi-VN.resources
+H:\KY 6\C#\Training\iDict\iDict\obj\Debug\iDict.CheckWord.vi-VN.resources
+H:\KY 6\C#\Training\iDict\iDict\obj\Debug\iDict.Confirm.vi-VN.resources
+H:\KY 6\C#\Training\iDict\iDict\obj\Debug\iDict.Translation.vi-VN.resources
+H:\KY 6\C#\Training\iDict\iDict\obj\Debug\iDict.AddWord.vi-VN.resources
+D:\MobileDev\iDictSourceCode\iDict\bin\Debug\iDict.exe.config
+D:\MobileDev\iDictSourceCode\iDict\obj\Debug\Interop.SpeechLib.dll
+D:\MobileDev\iDictSourceCode\iDict\obj\Debug\iDict.csproj.ResolveComReference.cache
+D:\MobileDev\iDictSourceCode\iDict\obj\Debug\iDict.exe
+D:\MobileDev\iDictSourceCode\iDict\obj\Debug\iDict.pdb
+D:\MobileDev\iDictSourceCode\iDict\obj\Debug\iDict.csprojResolveAssemblyReference.cache
+D:\MobileDev\iDictSourceCode\iDict\obj\Debug\iDict.About.resources
+D:\MobileDev\iDictSourceCode\iDict\obj\Debug\iDict.Confirm.resources
+D:\MobileDev\iDictSourceCode\iDict\obj\Debug\iDict.ConvertToBaBylon.resources
+D:\MobileDev\iDictSourceCode\iDict\obj\Debug\iDict.Configuration.resources
+D:\MobileDev\iDictSourceCode\iDict\obj\Debug\iDict.Rename.resources
+D:\MobileDev\iDictSourceCode\iDict\obj\Debug\iDict.CheckWord.resources
+D:\MobileDev\iDictSourceCode\iDict\obj\Debug\iDict.Error.resources
+D:\MobileDev\iDictSourceCode\iDict\obj\Debug\iDict.MainDict.resources
+D:\MobileDev\iDictSourceCode\iDict\obj\Debug\iDict.ConvertToIDT.resources
+D:\MobileDev\iDictSourceCode\iDict\obj\Debug\iDict.ManageDict.resources
+D:\MobileDev\iDictSourceCode\iDict\obj\Debug\iDict.ConvertToPlainText.resources
+D:\MobileDev\iDictSourceCode\iDict\obj\Debug\iDict.MiniDict.resources
+D:\MobileDev\iDictSourceCode\iDict\obj\Debug\iDict.EditWord.resources
+D:\MobileDev\iDictSourceCode\iDict\obj\Debug\iDict.AddWord.resources
+D:\MobileDev\iDictSourceCode\iDict\obj\Debug\iDict.InfoDict.resources
+D:\MobileDev\iDictSourceCode\iDict\obj\Debug\iDict.AdvancedSearch.resources
+D:\MobileDev\iDictSourceCode\iDict\obj\Debug\iDict.Translation.resources
+D:\MobileDev\iDictSourceCode\iDict\obj\Debug\iDict.Properties.Resources.resources
+D:\MobileDev\iDictSourceCode\iDict\obj\Debug\iDict.AddWord.vi-VN.resources
+D:\MobileDev\iDictSourceCode\iDict\obj\Debug\iDict.AdvancedSearch.vi-VN.resources
+D:\MobileDev\iDictSourceCode\iDict\obj\Debug\iDict.CheckWord.vi-VN.resources
+D:\MobileDev\iDictSourceCode\iDict\obj\Debug\iDict.Confirm.vi-VN.resources
+D:\MobileDev\iDictSourceCode\iDict\obj\Debug\iDict.EditWord.vi-VN.resources
+D:\MobileDev\iDictSourceCode\iDict\obj\Debug\iDict.InfoDict.vi-VN.resources
+D:\MobileDev\iDictSourceCode\iDict\obj\Debug\iDict.MainDict.vi-VN.resources
+D:\MobileDev\iDictSourceCode\iDict\obj\Debug\iDict.MainDict.vi.resources
+D:\MobileDev\iDictSourceCode\iDict\obj\Debug\iDict.ManageDict.vi-VN.resources
+D:\MobileDev\iDictSourceCode\iDict\obj\Debug\iDict.MiniDict.vi-VN.resources
+D:\MobileDev\iDictSourceCode\iDict\obj\Debug\iDict.Configuration.vi-VN.resources
+D:\MobileDev\iDictSourceCode\iDict\obj\Debug\iDict.Properties.Resources.vi.resources
+D:\MobileDev\iDictSourceCode\iDict\obj\Debug\iDict.Translation.vi-VN.resources
+D:\MobileDev\iDictSourceCode\iDict\obj\Debug\iDict.csproj.GenerateResource.Cache

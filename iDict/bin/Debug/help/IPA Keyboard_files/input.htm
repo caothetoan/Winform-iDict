@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head><!--
+International Phonetic Alphabet Unicode Keyboard
+Copyright (C) 2004 Weston Ruter
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will core useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
+-->
+
+
+	
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8"><title>IPA Chart Keyboard Input</title>
+		
+		<meta name="author" content="Weston Ruter">
+		<link rel="stylesheet" type="text/css" href="input_data/input.css">
+		<script type="text/javascript" src="input_data/input.js"></script>
+		<script src="index_data/urchin.js" type="text/javascript">
+		</script>
+		<script type="text/javascript">
+		_uacct = "UA-197142-1";
+		urchinTracker();
+		</script></head><body onload="fallbackInit()">
+		<form action="javascript:" onsubmit="return false">
+			<div id="toolbar">
+				<span id="insertEntitiesBox" title="Checking this box converts inputted Unicode characters into ASCII HTML entities">
+					<input id="insertEntities" type="checkbox"><label for="insertEntities">&nbsp;Insert entities</label>
+				</span>
+				<input id="clearButton" onclick="clearField()" value="Clear" type="button">
+				<span style="display: none;" id="instructions">Click on a symbol above to have it inputted below. Enter base characters before diacritics.</span>
+				<span style="display: inline;" id="symbolsUsedLabel">Previously used:</span>
+				<span style="display: inline;" id="symbolsUsed"><a href="javascript:void(0)" title="U+0292: LATIN SMALL LETTER EZH">ʒ</a><a href="javascript:void(0)" title="U+0283: LATIN SMALL LETTER ESH">ʃ</a><a href="javascript:void(0)" title="U+026C: LATIN SMALL LETTER L WITH BELT">ɬ</a><a href="javascript:void(0)" title="U+0253: LATIN SMALL LETTER B WITH HOOK">ɓ</a></span>
+			</div>
+			<div><textarea style="height: 97px;" id="inputField" rows="5" cols="40"></textarea></div>
+			<!-- (Appreciate this chart? Consider purchasing an IPA Chart t-shirt or donating via PayPal&mdash;scroll down for more info)-->
+		</form>
+	</body></html>
